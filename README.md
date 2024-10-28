@@ -6,5 +6,3 @@ About Me
 🌐 Open-Source Aspirations: While I'm new to open source, I'm eager to contribute and make a meaningful impact. I’m particularly interested in projects like OpenBlocks and PocketBlocks.
 🛠 Project Goals: I hope to one day build my own app platform, using Svelte for the frontend and Go for the backend.
 
-
-[![roadmap.sh](https://roadmap.sh/card/tall/671f5e9d31d65c235d2f15e8?variant=dark)](https://roadmap.sh)
