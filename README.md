@@ -1,7 +1,8 @@
 # Hi there 👋
 I'm Elier, a self-taught developer continuously expanding my knowledge in Computer Science and software development. In my day-to-day role, I design and maintain business applications using the Microsoft Power Platform.
 
-About Me
+
+###About Me
 
 🌱 Learning: Constantly improving my skills in backend and frontend technologies.
 
